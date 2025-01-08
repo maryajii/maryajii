@@ -1,4 +1,4 @@
-## Hi there 👋, Mary here.
+## Hi there 👋, Mary here, reporting for duty.
 
 <!--
 **maryajii/maryajii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I am a passionate computer science student who enjoys coding.
