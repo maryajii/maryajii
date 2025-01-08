@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ###### - 🔭 I’m currently working on my final project - a mood based playlist curator system.
 
-#### 🌱 I have experience with coding softwares:
-- HTML
+#### I'm experienced and growing my skills in these coding languages and tools:
+
 - JavaScript
 - Python
+- MySql
 - Jupyter Notebook
 - Java
+- HTML
