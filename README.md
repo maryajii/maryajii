@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####### I am a passionate computer science student who enjoys coding.
+###### I am a passionate computer science student who enjoys coding.
 
 ###  🔭 I’m currently working on my final project - a playlist recommendation system based on the users current mood.
 
