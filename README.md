@@ -1,4 +1,4 @@
-## Hi there 👋, Mary here, reporting for duty.
+## Hi there 👋🏾, Mary here, reporting for duty.
 
 <!--
 **maryajii/maryajii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
