@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### I am a passionate computer science student who enjoys coding.
 
 ###### - 🔭 I’m currently working on my final project - a mood based playlist curator system.
-###### - 🌱 I have experience with coding softwares:
+
+#### - 🌱 I have experience with coding softwares:
 - HTML
 - JavaScript
 - Python
