@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am a passionate computer science student who enjoys coding.
 
-###### - 🔭 I’m currently working on my final project - a mood based playlist curator system.
+##### - 🔭 I’m currently working on my final project - a playlist recommendation system based on the users current mood.
 
 #### I'm experienced and growing my skills in these coding languages and tools:
 
